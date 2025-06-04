@@ -1,0 +1,31 @@
+.superTítulo{
+    color: rgb(255, 0, 0);
+    text-align: center;
+}
+.parágrafo{
+    font-size: larger;
+    text-align: justify;
+}
+.imagemdif{
+    width: 200px;
+    height: 200px;
+    border-radius: 7%;
+}
+.imagemPaíses{
+    width: 150px;
+    height: 150px;
+    border-radius: 7%;
+}
+.tabela{
+    border-color: black;
+    background-color: cadetblue;
+    border-style: outset;
+    border-spacing: 10px;
+}
+a {
+    color:blue; 
+}
+a:hover {
+    color: darkred;
+}
+
